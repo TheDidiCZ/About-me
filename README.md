@@ -7,7 +7,8 @@ Hi! My name is Didi or also TheDidi, I am 17 years old and I am from the Czech R
 ----------------------------------------
 Skills: HTML / CSS / JS
 ----------------------------------------
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my own project 
+
 
 
 
