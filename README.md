@@ -17,7 +17,7 @@ Hi! My name is Didi or also TheDidi, I am 17 years old and I am from the Czech R
 ## Where can you find me?
 
 🎬 • `YouTube` - [StudioDidiCZ]([https://www.youtube.com/channel/UC_lLen-FFlIm3t3i3u5tfWA](https://www.youtube.com/channel/UChxqWTKhoUIGkbqhpFKPqAA)) <br>
-📸 • `Instagram` - [@vthedidiofficial]([https://www.instagram.com/thedidi/](https://www.instagram.com/thedidiofficial/)) <br>
+📸 • `Instagram` - [@thedidiofficial]([https://www.instagram.com/thedidi/](https://www.instagram.com/thedidiofficial/)) <br>
 📽️ • `Twitch` - [TheDidiOfficial]([https://www.twitch.tv/venseyscode](https://www.twitch.tv/thedidiofficial)) <br>
 📌 • `Websites` - [www.thedidi.eu](www.thedidi.eu) [Coming soon..]<br>
 💬 • `Discord` - TheDidiCZ >/<#4105
