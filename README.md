@@ -10,7 +10,7 @@ Hi! My name is Didi or also TheDidi, I am 17 years old and I am from the Czech R
 
 ›> Currently learning - `PHP`, `MySQL`
 
-##Where did I work, who did I work for, or what was I working on? <br>
+## Where did I work, who did I work for, or what was I working on? <br>
 ⚙️ • `[2020 - 2021]` ***Lead Builder*** & ***Lead Developer*** of [DestinyCraft.eu] <br>
 ⚙️ • `[2021 - 2021]` ***Owner*** of [DidiLand.eu] <br>
 
