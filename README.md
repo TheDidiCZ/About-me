@@ -13,7 +13,7 @@ Hi! My name is Didi or also TheDidi, I am 17 years old and I am from the Czech R
 ## Where did I work, who did I work for, or what was I working on? <br>
 ⚙️ • `[2020 - 2021]` ***Lead Builder*** & ***Lead Developer*** of [DestinyCraft.eu] <br>
 ⚙️ • `[2021 - 2021]` ***Owner*** of [DidiLand.eu] <br>
-⚙️ • `[2021 - 2023]` ***Server Developer*** & ***Server Technician*** of [Mainverse.net] <br>
+⚙️ • `[2021 - 2023]` ***Server Developer*** & ***Server Technician*** of [Luna-Network.net] <br>
 
 ## Where can you find me?
 
